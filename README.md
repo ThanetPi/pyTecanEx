@@ -2,28 +2,27 @@
 
 
 ### Operating OS: 
-
         Windows or Mac
 
 This program has been tested on Windows, Mac x86, and Mac M1 computers without problems.
 
 ### Required container:
-    Anaconda or Miniconda
+        Anaconda or Miniconda
 
 
 ### Environmental file:
 
 Windows
 
-    pyTecanEx-environment-win.yml
+        pyTecanEx-environment-win.yml
 
 Mac_x86
 
-    pyTecanEx-environment-osx-x86.yml
+        pyTecanEx-environment-osx-x86.yml
 
 Mac_M1
     
-    pyTecanEx-environment-osx-m1.yml
+        pyTecanEx-environment-osx-m1.yml
 
 ### Program shortcut:
 
