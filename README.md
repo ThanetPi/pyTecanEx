@@ -5,6 +5,8 @@ This program has been tested on Windows, Mac x86, and Mac M1 computers without p
 
 Required container: Anaconda or Miniconda/n
 
-Environmental file: pyTecanEx-environment-win.yml      for Windows/n
-                    pyTecanEx-environment-osx-x86.yml  for Mac x86/n
-                    pyTecanEx-environment-osx-m1.yml   for Mac M1/n
+Environmental file:
+
+pyTecanEx-environment-win.yml      for Windows
+pyTecanEx-environment-osx-x86.yml  for Mac x86
+pyTecanEx-environment-osx-m1.yml   for Mac M1
