@@ -1,0 +1,5 @@
+To perform test run, please entering numbers following instruction below:
+
+Enter cycle number: 16
+
+Enter column number: 12

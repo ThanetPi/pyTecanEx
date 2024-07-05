@@ -1,0 +1,41 @@
+name: py-tx
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2
+  - ca-certificates
+  - libblas
+  - libcblas
+  - libcxx
+  - libexpat
+  - libffi
+  - libgfortran
+  - libgfortran5
+  - liblapack
+  - libopenblas
+  - libsqlite
+  - libzlib
+  - llvm-openmp
+  - ncurses
+  - numpy
+  - openssl
+  - pandas
+  - pip
+  - python
+  - python-dateutil
+  - python-tzdata
+  - python_abi
+  - pytz
+  - readline
+  - setuptools
+  - six
+  - tk
+  - tzdata
+  - wheel
+  - xlsxwriter
+  - xz
+  - pip:
+      - pyshortcuts
+      - openpyxl
+prefix: /Users/
