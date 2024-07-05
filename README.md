@@ -22,4 +22,4 @@ pyTecanEx-environment-osx-m1.yml   for Mac M1
 
 ### Program shortcut:
 
-The shortcut of pyTecanEx can be made using the pyshortcuts package already listed in the environmental file. For the instructions, please visit https://github.com/newville/pyshortcuts.
+The shortcut of pyTecanEx can be made using the pyshortcuts package already listed in the environmental file. For the instructions, please visit https://github.com/newville/pyshortcuts. The icon image is provided in the image folder of this repository.
