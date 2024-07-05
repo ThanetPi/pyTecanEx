@@ -14,11 +14,11 @@ Anaconda or Miniconda
 
 ### Environmental file:
 
-pyTecanEx-environment-win.yml      for Windows
+Windows ==> pyTecanEx-environment-win.yml
 
-pyTecanEx-environment-osx-x86.yml  for Mac x86
+Mac_x86 ==> pyTecanEx-environment-osx-x86.yml
 
-pyTecanEx-environment-osx-m1.yml   for Mac M1
+Mac_M1  ==> pyTecanEx-environment-osx-m1.yml
 
 ### Program shortcut:
 
