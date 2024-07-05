@@ -1,4 +1,6 @@
 # pyTecanEx: a python-based program for extracting Tecan's microplate reader data for the bacterial growth experiment
+This respiratory is licensed under CC BY-NC-ND 4.0
+
 
 ### Operating OS: 
 
