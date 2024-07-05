@@ -4,27 +4,33 @@
 ### Operating OS: 
 
 Windows or Mac.
+    This program has been tested on Windows, Mac x86, and Mac M1 computers without problems.
 
-This program has been tested on Windows, Mac x86, and Mac M1 computers without problems.
-
-
-### Required container: 
-
-Anaconda or Miniconda
+### Required container:
+    Anaconda or Miniconda
 
 
 ### Environmental file:
 
-Windows ==> pyTecanEx-environment-win.yml
+Windows
 
-Mac_x86 ==> pyTecanEx-environment-osx-x86.yml
+    pyTecanEx-environment-win.yml
 
-Mac_M1  ==> pyTecanEx-environment-osx-m1.yml
+Mac_x86
+
+    pyTecanEx-environment-osx-x86.yml
+
+Mac_M1
+    
+    pyTecanEx-environment-osx-m1.yml
 
 ### Program shortcut:
 
 The shortcut of pyTecanEx can be made using the pyshortcuts package already listed in the environmental file. For instructions, you can visit https://github.com/newville/pyshortcuts. The icon image is provided in this repository's images folder.
 
+### Instruction
 
+The user guide is provided in this repository' doc folder.
 
-This respiratory is licensed under CC BY-NC-ND 4.0
+---
+#### This respiratory is licensed under CC BY-NC-ND 4.0
