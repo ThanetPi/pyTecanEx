@@ -1,4 +1,5 @@
 # pyTecanEx: a python-based program for extracting Tecan's microplate reader data.
+[![DOI](https://zenodo.org/badge/819427772.svg)](https://zenodo.org/doi/10.5281/zenodo.13378610)
 
 
 ### Operating OS: 
